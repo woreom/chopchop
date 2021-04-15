@@ -1,0 +1,41 @@
+LOCUS       MN01025                  151 bp    DNA              UNK 01-JAN-1980
+DEFINITION  CHOPCHOP results.
+ACCESSION   MN01025
+VERSION     MN01025
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     Target_1        complement(20..42)
+     Target_2        complement(21..43)
+     Target_3        complement(22..44)
+     Target_4        27..49
+     Target_5        30..52
+     Target_6        31..53
+     Target_7        complement(28..50)
+     Target_8        32..54
+     Target_9        5..27
+     Target_10       complement(46..68)
+     Target_11       complement(36..58)
+     Target_12       110..132
+     Target_13       complement(106..128)
+     Target_14       75..97
+     Target_15       complement(45..67)
+     Target_16       54..76
+     Target_17       51..73
+     Target_18       complement(59..81)
+     Target_19       127..149
+     Target_20       complement(55..77)
+     Target_21       50..72
+     Target_22       68..90
+     Target_23       126..148
+     Target_24       63..85
+     Target_25       125..147
+     Target_26       complement(118..140)
+     Target_27       120..142
+ORIGIN
+        1 gggatgatgt tctggagagc cccgcggcca tcacgccaca gtttcccgga ggggccatcc
+       61 acagtcttct gggtggcagt gatggcatgg actgtggtca tgagtccttc cacgatacca
+      121 aagttgtcat ggatgacctt ggccaggggt g
+//

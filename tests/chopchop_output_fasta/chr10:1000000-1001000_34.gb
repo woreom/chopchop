@@ -1,0 +1,33 @@
+LOCUS       CHOPCHOP                 603 bp    DNA              UNK 01-JAN-1980
+DEFINITION  CHOPCHOP prediction for gene chr10:1000000-1001000, target 34.
+ACCESSION   chr10:1000000-1001000, locus 34
+VERSION     chr10:1000000-1001000, locus 34
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     Target          290..312
+     PRIMER_LEFT_4   106..127
+     PRIMER_LEFT_3   106..127
+     PRIMER_LEFT_2   106..127
+     PRIMER_LEFT_1   106..127
+     PRIMER_LEFT_0   106..127
+     PRIMER_RIGHT_1  346..367
+     PRIMER_RIGHT_0  367..388
+     PRIMER_RIGHT_3  365..386
+     PRIMER_RIGHT_2  349..370
+     PRIMER_RIGHT_4  366..387
+ORIGIN
+        1 actgcaagct ccgcctccct ggttcacgcc attctcctac ctcagcctcc cgagtagctg
+       61 ggactacagg tgcccgccac cacgcccagc taattttttg tacttttagt agagatgggg
+      121 ttttgccgtg tgagccagga tggtctcgat ctcctgacct cgtgatccac ccgcctcggc
+      181 ctcccagagt gctgggatta caggtgtgag ccaccgcacc cagccctact tttttttttt
+      241 tttaactaca attctgctgt aagattatta ggtctggttg ggtgtgtgtg agtgacttct
+      301 gggatgtgct ggacaagaag cttgtgggtg agtgtgcttt cagtgacaag gtctggctgt
+      361 gttaggttgt agacactcct gggatcctgg accaccctct ggaggatagg aacaccatcg
+      421 agatgcaggc catcactgcc ctggcccacc tccgtgctgc ggtcctgtat gtgatggatt
+      481 tgtctgagca gtgtgggcat gggctgaggg agcagctaga actcttccag aacatcagac
+      541 ctctcttcat caacaaggtg tgtgtggtca ctcatgtttt gcttcatatc ctgcagtacg
+      601 aga
+//

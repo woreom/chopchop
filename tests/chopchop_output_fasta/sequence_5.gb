@@ -1,0 +1,15 @@
+LOCUS       CHOPCHOP                 151 bp    DNA              UNK 01-JAN-1980
+DEFINITION  CHOPCHOP prediction for gene sequence, target 5.
+ACCESSION   sequence, locus 5
+VERSION     sequence, locus 5
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     Target          30..52
+ORIGIN
+        1 gggatgatgt tctggagagc cccgcggcca tcacgccaca gtttcccgga ggggccatcc
+       61 acagtcttct gggtggcagt gatggcatgg actgtggtca tgagtccttc cacgatacca
+      121 aagttgtcat ggatgacctt ggccaggggt g
+//

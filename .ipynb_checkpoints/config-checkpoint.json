@@ -1,0 +1,13 @@
+{
+  "PATH": {
+    "PRIMER3": "./primer3_core",
+    "BOWTIE": "bowtie/bowtie",
+    "TWOBITTOFA": "./twoBitToFa",
+    "TWOBIT_INDEX_DIR": "/mnt/d/M3/Projects/BCB/Data/homo_sapiens_hg38/2bit",
+    "BOWTIE_INDEX_DIR": "/mnt/d/M3/Projects/BCB/Data/homo_sapiens_hg38/bowtie",
+    "ISOFORMS_INDEX_DIR": "/your/full/path/to/ebwt_transcriptome_folder_and_2bit_of_genome",
+    "ISOFORMS_MT_DIR": "/your/full/path/to/vienna_MT_folder",
+    "GENE_TABLE_INDEX_DIR": "/mnt/d/M3/Projects/BCB/Data/homo_sapiens_hg38/gene_table"
+  },
+  "THREADS": 1
+}
